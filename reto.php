@@ -43,5 +43,5 @@
     <?php
         mostrarFactorial($numeroPost);
         factorizarNumero($numeroPost);
-            ?>
+    ?>
 </table>
